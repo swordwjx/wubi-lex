@@ -13,7 +13,7 @@ import win.ui;
 var winform = win.form(text="WubiLex - 码表管理";right=977;bottom=602;bgcolor=16777215)
 winform.add(
 btnAddFile={cls="plus";text="添加码表";left=32;top=11;right=193;bottom=44;align="left";bgcolor=11580047;dl=1;dt=1;font=LOGFONT(h=-16);iconStyle={align="left";font=LOGFONT(h=-16;name='FontAwesome');padding={left=15}};iconText='\uF271';notify=1;tabstop=1;textPadding={left=39};z=2};
-btnCopyToSystem={cls="plus";text="安装到系统码表";left=201;top=12;right=394;bottom=45;align="left";bgcolor=11580047;disabled=1;dl=1;dt=1;font=LOGFONT(h=-16);iconStyle={align="left";font=LOGFONT(h=-16;name='FontAwesome');padding={left=15}};iconText='\uF17A ';notify=1;tabstop=1;textPadding={left=39};z=3};
+btnCopyToSystem={cls="plus";text="安装到系统码表";left=201;top=11;right=394;bottom=44;align="left";bgcolor=11580047;disabled=1;dl=1;dt=1;font=LOGFONT(h=-16);iconStyle={align="left";font=LOGFONT(h=-16;name='FontAwesome');padding={left=15}};iconText='\uF17A ';notify=1;tabstop=1;textPadding={left=39};z=3};
 btnSave={cls="plus";text="保存码表";left=802;top=560;right=937;bottom=596;align="left";bgcolor=11580047;db=1;dr=1;font=LOGFONT(h=-16);iconStyle={align="left";font=LOGFONT(h=-16;name='FontAwesome');padding={left=15}};iconText='\uF0C7';notify=1;tabstop=1;textPadding={left=39};z=7};
 btnSearch={cls="plus";text='\uF002';left=604;top=569;right=633;bottom=592;color=3947580;db=1;dr=1;font=LOGFONT(h=-16;name='FontAwesome');iconColor=2960685;notify=1;z=6};
 btnSimplified={cls="plus";text="精简码表";left=659;top=560;right=794;bottom=596;align="left";bgcolor=11580047;db=1;dr=1;font=LOGFONT(h=-16);iconStyle={align="left";font=LOGFONT(h=-16;name='FontAwesome');padding={left=15}};iconText='\uF03A';notify=1;tabstop=1;textPadding={left=39};z=8};
